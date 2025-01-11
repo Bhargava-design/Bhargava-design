@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi, I'm **Bhargava Veera Bhadra Guduru**, a passionate Data Science and Machine Learning enthusiast. I am currently pursuing my B.Tech in Data Science and have hands-on experience in Python, R, SQL, Machine Learning, and Data Analytics. I am eager to contribute to innovative projects and grow professionally in the field of AI and Data Science.
+Hi, I'm **Bhargava Veera Bhadra Guduru**, a driven and passionate **Data Science and Machine Learning enthusiast** with a strong foundation in **Python, R, SQL, Machine Learning, and Data Analytics**. I recently graduated in 2024 with a **B.Tech in Data Science**, where I honed my technical expertise and developed a deep curiosity for solving real-world problems using data-driven solutions.
 
 ## Technical Skills
 - **Programming Languages**: Python, R
