@@ -16,10 +16,6 @@ Software Developer and Solution Architect with hands-on experience in developing
 - Client Handling
 - Decision Making
 - Time Management
-
-## Projects
-- [Gemini Decode - Multilanguage Document Extraction by Gemini Pro](#)
-- [https://github.com/Bhargava-design/Drowsiness-Detection-System-in-Drivers-using-Machine-Learning-and-Python-](#)
   
 ## Certifications
 - AI Premier Certification by Infosys Springboard
