@@ -19,8 +19,8 @@ Software Developer and Solution Architect with hands-on experience in developing
 
 ## Projects
 - [Gemini Decode - Multilanguage Document Extraction by Gemini Pro](#)
-- [Vigilant Guardians: Real-time Drowsiness Detection in Drivers](#)
-
+- [https://github.com/Bhargava-design/Drowsiness-Detection-System-in-Drivers-using-Machine-Learning-and-Python-](#)
+  
 ## Certifications
 - AI Premier Certification by Infosys Springboard
 - Alteryx Designer Core Micro Credentials
