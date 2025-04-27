@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Bhargava Veera Bhadra Guduru
 
 Hi, I'm **Bhargava Veera Bhadra Guduru**, a driven and passionate **Data Science and Machine Learning enthusiast** with a strong foundation in **Python, R, SQL, Machine Learning, and Data Analytics**. I recently graduated in 2024 with a **B.Tech in Data Science**, where I honed my technical expertise and developed a deep curiosity for solving real-world problems using data-driven solutions.
 
