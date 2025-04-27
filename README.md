@@ -1,17 +1,19 @@
 # Bhargava Veera Bhadra Guduru
 
-Hi, I'm **Bhargava Veera Bhadra Guduru**, a driven and passionate **Data Science and Machine Learning enthusiast** with a strong foundation in **Python, R, SQL, Machine Learning, and Data Analytics**. I recently graduated in 2024 with a **B.Tech in Data Science**, where I honed my technical expertise and developed a deep curiosity for solving real-world problems using data-driven solutions.
+Software Developer and Solution Architect with hands-on experience in developing scalable, user-centric web applications and dynamic interfaces. Proficient in **Python**, **HTML**, **CSS**, **JavaScript**, **jQuery**, **AJAX**, **MySQL**, and **AWS Cloud EC2 Deployment**, with additional expertise in integrating machine learning tools to enhance functionality and performance. Committed to delivering robust, efficient, and high-quality web solutions.
 
 ## Technical Skills
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python (Django)
+- **Frontend + Backend + Deployment**
 - **Data Science**: Data Structures, Machine Learning, SQL
-- **Tools**: MS Office, Power BI, Alteryx
-- **Cloud & AI**: Google Cloud, Generative AI, Cloud Computing
+- **Tools**: MS Office, Power BI, Tableau
+- **Cloud & AI**: Google Cloud, Generative AI, AWS EC2
 
 ## Personal Skills
 - Problem-Solving
 - Communication
 - Teamwork
+- Client Handling
 - Decision Making
 - Time Management
 
@@ -25,8 +27,9 @@ Hi, I'm **Bhargava Veera Bhadra Guduru**, a driven and passionate **Data Science
 - NPTEL: Cloud Computing
 
 ## Internships
-- **Data Analytics Trainee** at CloudyML
-- **Google Cloud Gen AI Virtual Internship** at SmartInternz
+- **Software Development Engineering Intern** at **Station-S**
+- **Data Analytics Trainee** at **CloudyML**
+- **Google Cloud Gen AI Virtual Internship** at **SmartInternz**
 
 ## Education
 - **B.Tech in Data Science** from Chalapathi Institute of Engineering and Technology
