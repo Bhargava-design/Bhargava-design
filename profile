@@ -10,7 +10,7 @@
 
 Backend-focused Software Engineer specializing in **Python (Django)** with hands-on experience in building scalable web applications, designing REST APIs, and deploying production systems on AWS.
 
-Currently working at **ZDotApps (Station-S, Sri City)**, contributing to real-world applications serving mobile and web platforms.
+Currently working at **ZdotApps Pvt Ltd @ Station-S, Sri City, Expy Highway**, contributing to real-world applications serving mobile and web platforms.
 
 I focus on:
 
